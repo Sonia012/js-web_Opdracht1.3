@@ -1,0 +1,16 @@
+
+/*
+  Import the common theme.
+*/
+@import "./_shared/scss/theme.scss";
+
+/*
+  If you need some CSS for any reason you can put it here.
+*/
+input, textarea {
+    display: block;
+}
+
+#reset {
+  margin-bottom: 10px;
+}
